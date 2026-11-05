@@ -18,7 +18,7 @@ cirrhosis-prediction/
 ├── data/
 │   ├── raw/              # Исходные данные
 │   └── processed/        # Очищенный датасет 
-├── notebooks/            # Jupyter-ноутбуки с EDA
+├── notebooks/            # Jupyter-ноутбуки
 ├── src/                  # Скрипты для работы с моделями
 ├── docs/                 # Презентация и документация
 ├── README.md             # Описание проекта
